@@ -1,0 +1,2 @@
+# it-fundamentals
+eğitim
